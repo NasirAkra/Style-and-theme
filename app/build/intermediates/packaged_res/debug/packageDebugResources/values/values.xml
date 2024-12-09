@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Style and theme</string>
+    <style name="Base.Theme.StyleAndTheme" parent="Theme.Material3.Dark.NoActionBar">
+        
+        
+    </style>
+    <style name="MyButtonbold">
+        <item name="android:textSize">55sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFC107</item>
+    </style>
+    <style name="Theme.StyleAndTheme" parent="Base.Theme.StyleAndTheme"/>
+</resources>
